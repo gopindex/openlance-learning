@@ -1,0 +1,2 @@
+[✓] Finish all the models for Blog, Review, and User
+[] Sign up the user and hash the password
